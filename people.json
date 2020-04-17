@@ -1,0 +1,128 @@
+[
+    {
+        "firstName": "Syriusz",
+        "lastName": "Black",
+        "age": 40,
+        "gender": "M"
+    },
+    {
+        "firstName": "Ronald",
+        "lastName": "Lupin",
+        "age": 71,
+        "gender": "M"
+    },
+    {
+        "firstName": "Jenny",
+        "lastName": "Lupin",
+        "age": 72,
+        "gender": "F"
+    },
+    {
+        "firstName": "Jenny",
+        "lastName": "Snape",
+        "age": 25,
+        "gender": "F"
+    },
+    {
+        "firstName": "Lucius",
+        "lastName": "Granger",
+        "age": 19,
+        "gender": "M"
+    },
+    {
+        "firstName": "Anna",
+        "lastName": "Malfoy",
+        "age": 49,
+        "gender": "F"
+    },
+    {
+        "firstName": "Luna",
+        "lastName": "Granger",
+        "age": 38,
+        "gender": "F"
+    },
+    {
+        "firstName": "Severus",
+        "lastName": "Potter",
+        "age": 71,
+        "gender": "M"
+    },
+    {
+        "firstName": "Harry",
+        "lastName": "Black",
+        "age": 34,
+        "gender": "F"
+    },
+    {
+        "firstName": "Jenny",
+        "lastName": "Potter",
+        "age": 74,
+        "gender": "M"
+    },
+    {
+        "firstName": "Hermiona",
+        "lastName": "Dumbledore",
+        "age": 41,
+        "gender": "F"
+    },
+    {
+        "firstName": "Draco",
+        "lastName": "Dumbledore",
+        "age": 36,
+        "gender": "F"
+    },
+    {
+        "firstName": "Jenny",
+        "lastName": "Dumbledore",
+        "age": 54,
+        "gender": "F"
+    },
+    {
+        "firstName": "Ginny",
+        "lastName": "Potter",
+        "age": 64,
+        "gender": "M"
+    },
+    {
+        "firstName": "Harry",
+        "lastName": "Snape",
+        "age": 63,
+        "gender": "M"
+    },
+    {
+        "firstName": "Severus",
+        "lastName": "Lupin",
+        "age": 25,
+        "gender": "M"
+    },
+    {
+        "firstName": "Syriusz",
+        "lastName": "Lupin",
+        "age": 32,
+        "gender": "F"
+    },
+    {
+        "firstName": "Hermiona",
+        "lastName": "Lupin",
+        "age": 37,
+        "gender": "F"
+    },
+    {
+        "firstName": "Harry",
+        "lastName": "Granger",
+        "age": 36,
+        "gender": "F"
+    },
+    {
+        "firstName": "Ronald",
+        "lastName": "Weasley",
+        "age": 70,
+        "gender": "M"
+    },
+    {
+        "firstName": "Hermiona",
+        "lastName": "Snape",
+        "age": 74,
+        "gender": "F"
+    }
+]
