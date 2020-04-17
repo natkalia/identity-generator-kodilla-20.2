@@ -23,3 +23,8 @@ Example of identity:
 
 # Setup
 Download project and run `node app.js` in your console.
+
+# TODO's
+
+- [ ] add generating random phone 
+- [ ] add generating random email using pattern (e.g. ronald.potter@gmail.com for randomly generated Ronald Potter)
