@@ -11,5 +11,15 @@ Script generates array with 20 random identities. Each identity consists of:
 
 Identities are generated into file `people.json`.
 
+Example of identity: 
+```
+{ 
+  "gender": "F",
+  "firstName": "Ginny",
+  "lastName": "Weasley",
+  "age": 50
+},
+```
+
 # Setup
 Download project and run `node app.js` in your console.
