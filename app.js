@@ -1,4 +1,5 @@
-// assumption: at this stage random values can be repeating values
+// TODO: check for repeating values (e.g. too identical identities or two identitcal first/last names)
+// TODO: connect male names with male gender and female names with female gender
 
 const fs = require('fs');
 
@@ -7,39 +8,23 @@ const firstNamesFemale = ['Jenny', 'Anna', 'Hermiona', 'Ginny', 'Luna', 'Molly']
 const lastNames = ['Potter', 'Weasley', 'Malfoy', 'Dumbledore', 'Granger', 'Snape', 'Lupin', 'Black']
 const genders = [ 'M', 'F'];
 
-const getRandomGender = () => {
-  return genders[Math.round(Math.random())];
-}
-
-const getRandomAge = () => {
-  return Math.floor(Math.random() * (78 - 18 + 1)) + 18;
-}
-
-const getRandomFirstName = () => {
-  const firstNames = [...firstNamesFemale, ...firstNamesMale];
-  const index =  Math.floor(Math.random() * (firstNames.length));
-  return firstNames[index];
-}
-
-const getRandomLastName = () => {
-  const index =  Math.floor(Math.random() * (lastNames.length));
-  return lastNames[index]; 
-}
-
-const createIdentity = () => {
-  let identity = {
-    firstName: getRandomFirstName(),
-    lastName: getRandomLastName(),
-    age: getRandomAge(),
-    gender: getRandomGender(),
-  };
-  return identity; 
-};
+const getRandomIndex = arr => Math.floor(Math.random() * (arr.length));
 
 let identitiesArray = [];
 const createIdentitiesArray = () => {
+
   for (let i = 0; i <= 20; i++) {
-    identitiesArray.push(createIdentity());
+    let identity = {};
+    identity.gender = genders[getRandomIndex(genders)];
+
+    identity.firstName = (identity.gender === 'M') ?
+      firstNamesMale[getRandomIndex(firstNamesMale)] :
+      firstNamesFemale[getRandomIndex(firstNamesFemale)];
+
+    identity.lastName = lastNames[getRandomIndex(lastNames)];
+    identity.age = Math.floor(Math.random() * (78 - 18 + 1)) + 18;
+    
+    identitiesArray.push(identity);
   }
   return identitiesArray;
 };

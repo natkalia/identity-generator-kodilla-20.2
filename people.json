@@ -1,128 +1,128 @@
 [
     {
-        "firstName": "Syriusz",
-        "lastName": "Black",
-        "age": 40,
-        "gender": "M"
-    },
-    {
-        "firstName": "Ronald",
-        "lastName": "Lupin",
-        "age": 71,
-        "gender": "M"
-    },
-    {
-        "firstName": "Jenny",
-        "lastName": "Lupin",
-        "age": 72,
-        "gender": "F"
-    },
-    {
-        "firstName": "Jenny",
-        "lastName": "Snape",
-        "age": 25,
-        "gender": "F"
-    },
-    {
-        "firstName": "Lucius",
-        "lastName": "Granger",
-        "age": 19,
-        "gender": "M"
-    },
-    {
-        "firstName": "Anna",
-        "lastName": "Malfoy",
-        "age": 49,
-        "gender": "F"
-    },
-    {
-        "firstName": "Luna",
-        "lastName": "Granger",
-        "age": 38,
-        "gender": "F"
-    },
-    {
-        "firstName": "Severus",
-        "lastName": "Potter",
-        "age": 71,
-        "gender": "M"
-    },
-    {
-        "firstName": "Harry",
-        "lastName": "Black",
-        "age": 34,
-        "gender": "F"
-    },
-    {
-        "firstName": "Jenny",
-        "lastName": "Potter",
-        "age": 74,
-        "gender": "M"
-    },
-    {
-        "firstName": "Hermiona",
-        "lastName": "Dumbledore",
-        "age": 41,
-        "gender": "F"
-    },
-    {
-        "firstName": "Draco",
-        "lastName": "Dumbledore",
-        "age": 36,
-        "gender": "F"
-    },
-    {
-        "firstName": "Jenny",
-        "lastName": "Dumbledore",
-        "age": 54,
-        "gender": "F"
-    },
-    {
+        "gender": "F",
         "firstName": "Ginny",
-        "lastName": "Potter",
-        "age": 64,
-        "gender": "M"
-    },
-    {
-        "firstName": "Harry",
-        "lastName": "Snape",
-        "age": 63,
-        "gender": "M"
-    },
-    {
-        "firstName": "Severus",
-        "lastName": "Lupin",
-        "age": 25,
-        "gender": "M"
-    },
-    {
-        "firstName": "Syriusz",
-        "lastName": "Lupin",
-        "age": 32,
-        "gender": "F"
-    },
-    {
-        "firstName": "Hermiona",
-        "lastName": "Lupin",
-        "age": 37,
-        "gender": "F"
-    },
-    {
-        "firstName": "Harry",
-        "lastName": "Granger",
-        "age": 36,
-        "gender": "F"
-    },
-    {
-        "firstName": "Ronald",
         "lastName": "Weasley",
-        "age": 70,
-        "gender": "M"
+        "age": 50
     },
     {
-        "firstName": "Hermiona",
+        "gender": "M",
+        "firstName": "Severus",
+        "lastName": "Granger",
+        "age": 34
+    },
+    {
+        "gender": "M",
+        "firstName": "Ronald",
+        "lastName": "Dumbledore",
+        "age": 45
+    },
+    {
+        "gender": "F",
+        "firstName": "Anna",
+        "lastName": "Black",
+        "age": 47
+    },
+    {
+        "gender": "M",
+        "firstName": "Syriusz",
         "lastName": "Snape",
-        "age": 74,
-        "gender": "F"
+        "age": 35
+    },
+    {
+        "gender": "F",
+        "firstName": "Ginny",
+        "lastName": "Snape",
+        "age": 70
+    },
+    {
+        "gender": "M",
+        "firstName": "Harry",
+        "lastName": "Snape",
+        "age": 32
+    },
+    {
+        "gender": "F",
+        "firstName": "Hermiona",
+        "lastName": "Malfoy",
+        "age": 18
+    },
+    {
+        "gender": "F",
+        "firstName": "Luna",
+        "lastName": "Black",
+        "age": 69
+    },
+    {
+        "gender": "M",
+        "firstName": "Lucius",
+        "lastName": "Lupin",
+        "age": 45
+    },
+    {
+        "gender": "F",
+        "firstName": "Ginny",
+        "lastName": "Weasley",
+        "age": 26
+    },
+    {
+        "gender": "F",
+        "firstName": "Molly",
+        "lastName": "Snape",
+        "age": 55
+    },
+    {
+        "gender": "M",
+        "firstName": "Lucius",
+        "lastName": "Malfoy",
+        "age": 73
+    },
+    {
+        "gender": "F",
+        "firstName": "Jenny",
+        "lastName": "Malfoy",
+        "age": 23
+    },
+    {
+        "gender": "F",
+        "firstName": "Anna",
+        "lastName": "Snape",
+        "age": 26
+    },
+    {
+        "gender": "F",
+        "firstName": "Jenny",
+        "lastName": "Granger",
+        "age": 78
+    },
+    {
+        "gender": "M",
+        "firstName": "Severus",
+        "lastName": "Black",
+        "age": 24
+    },
+    {
+        "gender": "M",
+        "firstName": "Syriusz",
+        "lastName": "Granger",
+        "age": 71
+    },
+    {
+        "gender": "M",
+        "firstName": "Ronald",
+        "lastName": "Snape",
+        "age": 46
+    },
+    {
+        "gender": "M",
+        "firstName": "Syriusz",
+        "lastName": "Malfoy",
+        "age": 57
+    },
+    {
+        "gender": "F",
+        "firstName": "Hermiona",
+        "lastName": "Black",
+        "age": 48
     }
 ]
